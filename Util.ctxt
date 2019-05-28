@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=java.lang.String\ readLine(java.lang.String)
+comment1.params=fileName
+comment1.target=boolean\ hasMoreLines(java.lang.String)
+comment2.params=fileName
+comment2.target=void\ close(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ input()
+comment4.params=seconds
+comment4.target=void\ pause(double)
+numComments=5
